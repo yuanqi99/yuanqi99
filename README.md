@@ -1,12 +1,16 @@
-<p align="center"><a href="https://yuanqi99.github.io"><img width="80%" alt="Hello, I'm Shanju!" src="./assets/gh-readme-header.png" /></a></p>
+### Hi there 👋,I'm zhe.
 
-<br />
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/C#/Python.
+- 📫 How to reach me: shanjukk@163.com
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/Singularity_c?type=blog)
 
+![](https://github-readme-stats.vercel.app/api?username=yuanqi99&show_icons=true&theme=transparent)
 
-**About me**
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-- 💼 Steve
+### My Skill Set
 
-- ❤️ 热爱生活,喜爱散文,健身
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 💬 shanjukk@163.com
