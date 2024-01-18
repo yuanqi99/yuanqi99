@@ -10,7 +10,6 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/yuanqi99/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanqi99&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-<div> <img src="https://activity-graph.herokuapp.com/graph?username=yuanqi99&theme=xcode" /> </div>
 
 <div> <img src="https://github-profile-trophy.vercel.app/?username=yuanqi99" /> </div>
 ### My Skill Set
