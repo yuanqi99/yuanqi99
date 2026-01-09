@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/C#/Python.
 - 📫 How to reach me: shanjukk@163.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/Singularity_c?type=blog)
-username=yuanqi99&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/yuanqi99/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
