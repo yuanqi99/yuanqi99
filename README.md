@@ -4,8 +4,6 @@
 - 💬 Ask me about anything related to Java/C#/Python.
 - 📫 How to reach me: shanjukk@163.com
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yuanqi99/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
 
 ### My Skill Set
 
