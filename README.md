@@ -10,3 +10,4 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/C%23-8.0-purple?style=for-the-badge&logo=C#&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+![`yuanqi99`'s GitHub stats](https://moe-counter.glitch.me/get/@yuanqi99.github.readme)
